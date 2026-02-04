@@ -13,7 +13,6 @@ import { store } from "./src/store";
 import ThermostatDisplay from "./src/components/ThermostatDisplay";
 import SetpointControls from "./src/components/SetpointControls";
 import ConnectionStatus from "./src/components/ConnectionStatus";
-import SchedulesSection from "./src/components/SchedulesSection";
 import SchedulesSectionFixed from "./src/components/SchedulesSectionFixed";
 
 export default function App() {
